@@ -8,7 +8,7 @@ import { auth, db } from '../config/firebase'
 import {Posters} from './main'
 
 interface propss {
-    importantt: Posters
+    importantt: Poste
 }
 interface Like {
     userId : string
